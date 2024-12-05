@@ -1,0 +1,6 @@
+{
+  "Authentication": {
+    "ValidIssuer": "[INSERT SUPABASE PROJECT URL]/auth/v1",
+    "ValidAudience": "authenticated"
+  }
+}
